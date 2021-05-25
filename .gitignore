@@ -1,0 +1,6 @@
+lib
+lib64
+bin
+share
+pyvenv.cfg
+kimchiui/node_modules
